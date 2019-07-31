@@ -1,0 +1,5 @@
+GET http://localhost:8808/getKey HTTP/1.1
+###
+
+GET http://localhost:8808/hello?token=eyJBdXRoIjoiYXV0aCIsInR5cGUiOiJKV1QiLCJjcmVhdGVEYXRlIjoxNTY0NTQ3Njg3MzkxLCJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJKb2hubnkiLCJzdWIiOiJIaSIsImV4cCI6MTU2NDU1MTI4NywibXlLZXkiOiJteURhdGEifQ.csKqQj91y15NKSfpdIc2WeI99vc-uO1xckrOPsrkiSh04f-U7JkfEFd9DrGkf63VQWP58BTTU-Try2pAbSa-NA HTTP/1.1
+###
